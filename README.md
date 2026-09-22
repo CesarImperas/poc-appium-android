@@ -1,6 +1,20 @@
-# Appium + Android Studio - POC (TODO)
+# Appium (Android) - POC
 
 **Autor:** [Caio Cavalcanti](https://github.com/CesarImperas) - PDI @ VIRTUS UFCG  
+
+<br>
+
+> [!WARNING]
+> **Status:** Suspensa
+>
+> A POC foi temporariamente interrompida devido à suspensão da prioridade de
+automação mobile pelo cliente do projeto.
+> 
+> O trabalho foi encerrado após a configuração e validação do ambiente Appium, UiAutomator2, Android Emulator e Appium Inspector, incluindo a exploração da UI hierarchy e identificação inicial de locators da aplicação.
+>
+> A implementação dos **testes E2E** em **Java + Maven + JUnit 5** não foi realizada, pois essa etapa dependia da continuidade da demanda de automação mobile.
+
+<br>
 
 **Tópicos pendentes:**
 - Criação dos primeiros scripts de testes automatizados, utilizando a linguagem escolhida e definida no Appium Client, junto com o seu framework para o desenvolvimento dos testes.
@@ -303,7 +317,7 @@ Os resultados da POC devem registrar evidências sobre:
 | Limitações | problemas encontrados no Appium, driver ou ambiente |
 | CI/CD | requisitos e dificuldades para uma execução futura em pipeline |
 
-## Roadmap da POC
+## Roadmap da POC (~1 semana)
 
 | Etapa | Foco | Status |
 | ----- | ---- | ------ |
